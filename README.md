@@ -20,3 +20,11 @@ To view the results of the JavaScript challenges, please clone the repository an
 - Google
 - fellow peers at Road to Hire
 
+# Timeline
+
+Date assigned: July 28th 2025
+
+Date started: July 29th 2025
+
+Date completed: July 30th 2025
+
